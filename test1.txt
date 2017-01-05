@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2002-1BB4
+
+ Directory of C:\Users\Pallavi\Desktop\MyProject
+
+05-01-2017  23:17    <DIR>          .
+05-01-2017  23:17    <DIR>          ..
+05-01-2017  23:16    <DIR>          .git
+05-01-2017  23:17                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  58,885,799,936 bytes free
